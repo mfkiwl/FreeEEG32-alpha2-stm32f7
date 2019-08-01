@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name LSM6DS3)(type Legacy)(uri ${KIPRJMOD}/lib/LSM6DS3.lib)(options "")(descr ""))
+  (lib (name transformer_sp_ss)(type Legacy)(uri ${KIPRJMOD}/lib/transformer_sp_ss.lib)(options "")(descr ""))
+  (lib (name sn6505b)(type Legacy)(uri ${KIPRJMOD}/lib/sn6505b.lib)(options "")(descr ""))
+  (lib (name FreeEEG32-alpha-2-rescue)(type Legacy)(uri ${KIPRJMOD}/FreeEEG32-alpha-2-rescue.lib)(options "")(descr ""))
+)
